@@ -1,0 +1,1 @@
+C:30:"PHPUnit\Runner\TestResultCache":260:{a:2:{s:7:"defects";a:2:{s:40:"testRevertFunction::testRevertCharacters";i:4;s:40:"RevertFunctionTest::testRevertCharacters";i:4;}s:5:"times";a:2:{s:40:"testRevertFunction::testRevertCharacters";d:0.006;s:40:"RevertFunctionTest::testRevertCharacters";d:0.006;}}}
